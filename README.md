@@ -1,5 +1,4 @@
 # wordle-web
-
 ## Build Setup
 
 ```bash
